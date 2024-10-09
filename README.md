@@ -1,2 +1,2 @@
 # ifam-workshop-git
-Natália de Sousa Rufino
+Natalia de Sousa Rufino
