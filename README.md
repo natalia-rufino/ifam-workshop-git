@@ -1,2 +1,7 @@
 # ifam-workshop-git
-Natalia de Sousa Rufino
+
+aula de github turma 2
+
+- Antônio Carlos Andrade do Nascimento Junior
+- Armando Neto
+- Natalia de Sousa Rufino
